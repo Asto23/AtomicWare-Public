@@ -1,10 +1,10 @@
 {
   "BlacklistedUser1": {
-    "users": ["USER1", "USER2"],
+    "users": ["4871509687", "1"],
     "color": "#FF0000"
   },
   "BlacklistedUser2": {
-    "users": ["USER3", "USER4"],
+    "users": ["1", "1"],
     "color": "#FF0000"
   }
 }
